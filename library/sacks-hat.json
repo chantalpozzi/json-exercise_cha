@@ -1,0 +1,7 @@
+{
+  "Book" : 
+  {["FirstName": "Oliver"], ["lastName": "Sacks"], "Titel": "The Man Who Mistook His Wife for a Hat", "PublicationYear": 1985, "hardcover": false}
+"Keywords": [
+  {"keyword": "Neurowissenschaft"}
+  {"keyword": "Gesundheit"}]
+}
